@@ -1,0 +1,16 @@
+.foot{
+    display: block;
+    text-align: center;
+    padding: 1rem;
+    background-color: yellow;
+}
+.mainHeading{
+    display: block;
+    text-align: center;
+    padding: 1rem;
+    background-color: yellow;
+    height: 8vh;
+}
+.textoutput{
+    margin: 1rem;
+}
